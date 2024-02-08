@@ -1,0 +1,1483 @@
+.Advisor-container{
+    width: 100%;
+    max-width: 420px;
+    /* border: 2px solid red; */
+}
+
+.Navbar-container{
+    width: 100%;
+    background-image: url(../Img/Architect\ history\ victorian\ famous\ tower.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 20px 0px;
+}
+
+.Navbar{
+    border-bottom: 1px solid red;
+}
+
+.Navbar-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px 20px;
+}
+
+.Phonecall{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.Phonecall2{
+    display: none;
+}
+
+.Call{
+    color: #fff;
+    font-size: 18px;
+}
+
+.Phonecall p{
+    font-family: InterRegular;
+    font-size: 16px;
+    color: #fff;
+}
+
+.Login p{
+    font-family: InterRegular;
+    font-size: 16px;
+    color: #fff;
+}
+
+.Financial{
+    padding: 5px 30px 5px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.Financial p{
+    font-family: SourRegular;
+    color: #fff;
+    font-size: 10.5px;
+    letter-spacing: 0.66px;
+}
+
+.Menu{
+    color: #fff;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.Home{
+    display: none;
+}
+
+.DIFFERENTIATES-head{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.DIFFERENTIATES{
+    /* border: 2px solid red; */
+    text-align: center;
+    width: 80%;
+    padding:10px 30px;
+    background-color: #292929;
+}
+
+.DIFFERENTIATES h3{
+    color: #fff;
+    font-family: InterRegular;
+    font-size: 15px;
+}
+
+.GENUINE{
+    text-align: center;
+    padding: 0px 10px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.GENUINE h3{
+    color: #fff;
+    font-family: InterRegular;
+    font-size: 20px;
+}
+
+.TECHNOLOGY-heading{
+    width: 100%;
+    padding: 30px;
+    /* border: 2px solid red; */
+}
+
+.TECHNOLOGY h3{
+    text-align: center;
+    font-family: SourRegular;
+    color: #413F3F;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.TECHNOLOGY p{
+    font-family: InterRegular;
+    margin: 12px 0px;
+    font-size: 11.2px;
+    color: #4D4A4A;
+    /* line-height: 12.5px; */
+}
+
+.Vector{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    margin-bottom: 30px;
+}
+
+.vector-image{
+    width: 90%;
+}
+
+.Vector p{
+    font-family: SourRegular;
+    font-size: 17px;
+    font-weight: 600;
+    color: #4D4A4A;
+}
+
+.Today-head{
+    padding: 20px;
+}
+
+.Todays{
+    /* border: 2px solid red; */
+    padding: 40px 5px;
+    display: flex;
+    justify-content: center;
+    background-image: url(../Img/background.svg);
+    background-color: rgba(254, 0, 0, 0.8);
+}
+
+.Todays p{
+    width: 80%;
+    /* border: 2px solid green; */
+    font-family: SourRegular;
+    font-size: 17px;
+    color: #d1cbcb;
+    padding: 0px 6px;
+    line-height: 25px;
+}
+
+.DEDICATED{
+    /* border: 2px solid red; */
+    padding: 20px 30px;
+}
+
+.DEDICATED h2{
+    font-family: SourRegular;
+    text-align: center;
+    font-size: 20px;
+    color: #413F3F;
+}
+
+.DEDICATED p{
+    font-family: InterRegular;
+    text-transform: lowercase;
+    font-size: 11px;
+    /* margin-top: 30px; */
+    font-weight: bold;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+/* .DEDICATED-Heading{
+    border: 2px solid red;
+} */
+
+.Fta{
+    margin-top: 40px;
+    padding: 0px 20px;
+}
+
+.Fta-heading{
+    /* border: 2px solid green; */
+    margin-top: 20px;
+}
+
+.Fta-head{
+    /* border: 2px solid blue; */
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0px 30px;
+}
+
+.red-image{
+    width: 12%;
+}
+
+.Fta-head h2{
+    font-family: InterBold;
+    color: #000;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Servicess{
+    /* border: 2px solid  green; */
+    padding: 0px;
+}
+
+.Servicess p{
+    font-family: InterRegular;
+    line-height: 22px;
+    letter-spacing: 0.96px;
+    font-size: 13px;
+    color: #575252;
+    margin-top: 15px;
+    padding: 0px 20px;
+}
+
+.Professional{
+    background-color: #3B3B3B;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Professional h3{
+    font-family: SourRegular;
+    font-size: 14px;
+    color: #9D9D9D;
+    text-align: center;
+}
+
+.Professional p{
+    width: 70%;
+    font-family: InterRegular;
+    font-size: 14px;
+    color: #bbb8b8;
+    margin-top: 35px;
+}
+
+.btn-action{
+    background-color: #FA434A;
+    border: none;
+    padding: 10px 20px;
+    margin: 20px;
+    color: #fff;
+}
+.Choose{
+    /* border: 2px solid green; */
+    padding: 20px ;
+}
+
+/* .Choose-container{
+    border: 2px solid red;
+} */
+
+/* .Choose-text{
+    border: 2px solid blue;
+} */
+
+.Choose-text h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    color: #413F3F;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.Choose-text p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+.Choose-Heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.Choose-head{
+    width: 80%;
+    /* border: 2px solid black; */
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.Choose-red{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.red2-image{
+    width: 10%;
+}
+
+.Choose-red h3{
+    font-family: InterBold;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #000000;
+}
+
+.Choose-head p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin: 10px 0px;
+}
+
+.Team{
+    width: 100%;
+    background-image: url(/src/components/Img/Business\ meeting\ room\ on\ high\ rise\ office\ building.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(254, 0, 0, 0.8);
+}
+
+.Team-text{
+    padding: 20px 20px 20px 5px;
+}
+
+.Team-text h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #fff;
+}
+.new-all{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.new-all p{
+    margin: 10px 0px 0px 0px;
+}
+
+.Team-text p{
+    font-family: Inter;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin: 10px 0px;  
+    color: #fff;  
+}
+
+.Team-heading{
+    padding: 10px 0px 20px;
+}
+
+.Team-head{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    margin: 10px;
+}
+
+.Team-img{
+    width: 50%;
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    padding:30px 20px;
+}
+
+.handsome-image{
+    width: 90%;
+}
+
+.Meet{
+    margin-top: 10px;
+}
+
+.Meet p{
+    font-family: InterRegular;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0px;
+}
+
+/* .Reach-container{
+    border: 2px solid red;
+} */
+
+.Reach{
+    padding: 10px 20px;
+}
+
+.Reach h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #404040;
+    margin-bottom: 15px;
+}
+
+.Reach p{
+    font-family: InterRegular;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #000000;
+}
+
+.Selected-Head{
+    margin: 40px 0px 20px;
+}
+
+.Selected{
+    padding: 0px 20px;
+    
+}
+
+.Selected p{
+    font-family: InterRegular;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;
+    border-bottom: 1px solid #575252;    
+}
+
+.Selected-input{
+    display: flex;
+    gap: 60px;
+    /* margin: 5px 0px ; */
+    padding:10px 20px ;
+    
+}
+
+.First{
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid #575252;
+    padding: 8px 0px;
+    font-family: InterRegular;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+footer{
+    padding: 80px 30px 20px;
+    background-color: #1F1919;
+}
+
+.Footer-about h3{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #fff;
+    
+}
+
+.vector31-image{
+    width: 80%;
+}
+
+.Footer-img p{
+    font-family: SourRegular;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #7D7A7A;
+}
+
+.Since{
+    margin: 40px 0px 30px;
+}
+
+.Since p{
+    font-family: InterRegular;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;
+}
+
+.read-image{
+    width: 10%;
+}
+
+/* .Services{
+    border:2px solid #FA434A;
+} */
+
+.Services p{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.19em;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 0px;
+} 
+
+.Services-head{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid blue; */
+    gap: 3px;
+    margin: 5px 0px;
+}
+
+
+.vector4-image{
+    width: 5%;
+    /* border: 2px solid red; */
+}
+
+.Services-head p{
+    /* border: 2px solid green; */
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    /* text-align: left; */
+    padding: 0px;
+    margin-top: -2px;
+    color: #575252;
+    margin-bottom: 0px;
+}
+
+.Recent{
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+.Recent h3{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.19em;
+    text-align: left;
+    color: #fff;
+    margin:50px 0px 30px;
+    padding: 0px;
+}
+
+.Recent-head{
+    /* border: 2px solid green; */
+    width: 100%;
+    padding: 0px 30px 10px 0px;
+    color: #fff;
+}
+
+.Recent-head p{
+    font-family: InterRegular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;    
+}
+
+.Read-more{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 15px 0px;
+    padding: 0px 0px 0px 20px ;
+}
+
+.Read-more p{
+    font-family: InterRegular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: right;
+    
+}
+
+.read-image{
+    width: 5%;
+}
+
+@media (min-width:880px) {
+    .Advisor-container{
+        width: 100%;
+        max-width: 1440px;
+        margin: 0px auto;
+        /* border: 2px solid red; */
+    }
+
+    .Navbar-container{
+        width: 100%;
+        background-image: url(../Img/Architect\ history\ victorian\ famous\ tower.svg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: rgba(0, 0, 0, 0.9);
+        padding: 20px 0px;
+        height: 600px;
+    }
+/*   
+    .Navbar-container{
+        width: 100%;
+        height: 600px;
+        background: rgba(0, 0, 0, 0.4);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: rgba(0, 0, 0, 0.2);
+        padding: 10px 0px;
+    } */
+
+    .Navbar{
+        padding: 0px 40px;
+    }
+
+    .Phone{
+        /* border: 2px solid red; */
+        display: flex;
+        align-items: center;
+        gap: 80px;
+    }
+
+    .Phonecall2{
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .Phonecall2 p{
+        font-family: InterRegular;
+        font-size: 16px;
+        color: #fff;
+    }
+
+    
+.Financial{
+    padding: 5px 150px 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.Financial p{
+    font-family: SourRegular;
+    color: #fff;
+    font-size: 16.5px;
+    letter-spacing: 0.66px;
+}
+
+.Home{
+    display: block;
+}
+
+    .Home ul {
+        display: flex;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .Home ul li{
+        list-style: none;
+        font-family: InterRegular;
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 15px;
+        letter-spacing: 0.05em;
+        text-align: left;
+        color: #fff;
+        /* border: 2px solid red; */
+        padding: 10px 10px;
+        cursor: pointer;
+        /* border-bottom: 1px solid red; */
+    }
+
+    .Home ul li:hover{
+        border-bottom: 1px solid #fff;
+    }
+
+    .Menu{
+        display: none;
+    }
+
+    .DIFFERENTIATES-head{
+        display: flex;
+        justify-content: center;
+        margin-top: 150px;
+    }
+    
+    .DIFFERENTIATES{
+        /* border: 2px solid red; */
+        text-align: center;
+        width: 50%;
+        padding:10px 0px;
+        background-color: #292929;
+    }
+    
+    .DIFFERENTIATES h3{
+        color: #fff;
+        font-family: InterRegular;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 24px;
+        letter-spacing: 0.05em;
+        text-align: center;
+        
+    }
+
+    .GENUINE-head{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .GENUINE{
+        width: 50%;
+        text-align: left;
+        padding: 0px 10px;
+        margin-top: 20px;
+        margin-bottom: 80px;
+        /* border: 2px solid red; */
+    }
+    
+    .GENUINE h3{
+        color: #fff;
+        font-family: InterRegular;
+        font-size: 30px;
+        font-weight: 800;
+        line-height: 36px;
+        letter-spacing: 0.05em;
+        text-align: left;
+    }
+
+    .TECHNOLOGY-Container{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 0px 100px 0px 70px;
+        gap: 40px;
+        margin-top: 80px;
+        /* align-items: center; */
+    }
+
+    
+.TECHNOLOGY-heading{
+    width: 40%;
+    padding: 0px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.TECHNOLOGY{
+    /* border: 2px solid blue; */
+    width: 100%;
+}
+
+.TECHNOLOGY h3{
+    text-align: left;
+    font-family: SourRegular;
+    color: #413F3F;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.TECHNOLOGY p{
+    font-family: InterRegular;
+    margin: 12px 0px;
+    font-size: 12px;
+    color: #4D4A4A;
+    /* line-height: 12.5px; */
+}
+
+.Vector{
+    width: 100%;
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 2px solid red; */
+    margin-bottom: 30px;
+}
+
+.vector-image{
+    width: 70%;
+}
+
+.Vector p{
+    font-family: SourRegular;
+    font-size: 17px;
+    font-weight: 600;
+    color: #4D4A4A;
+    text-align: left;
+    line-height: 28px;
+    letter-spacing: 5%;
+}
+
+.Today-head{
+    width: 30%;
+    padding: 0px;
+    /* border: 2px solid green; */
+}
+
+.Todays{
+    /* border: 2px solid red; */
+    padding: 90px 20px 100px;
+    display: flex;
+    justify-content: center;
+    background-image: url(../Img/background.svg);
+    background-color: rgba(254, 0, 0, 0.8);
+    width: 100%;
+}
+
+.Todays p{
+    width: 80%;
+    font-family: SourRegular;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #d1cbcb;
+    
+}.DEDICATED{
+    /* border: 2px solid red; */
+    padding: 20px 30px;
+}
+
+.DEDICATED h2{
+    font-family: SourRegular;
+    text-align: center;
+    font-size: 32px;
+    color: #413F3F;
+}
+
+.DEDICATED p{
+    text-transform: lowercase;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px 0px;
+    font-family: InterRegular;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    
+}
+
+span{
+    text-transform: uppercase;
+}
+
+.DEDICATED-Contents{
+    /* border: 2px solid green; */
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0px 40px;
+}
+
+.DEDICATED-Heading{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Fta{
+    width: 100%;
+    margin-top: 40px;
+    padding: 0px 0px;
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+}
+
+.chart1-image{
+    display: none;
+}
+
+.chart-image{
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+.Fta-heading{
+    width: 100%;
+    /* border: 2px solid green; */
+    margin-top: 20px;
+}
+
+.Fta-head{
+    /* border: 2px solid blue; */
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0px 30px;
+}
+
+.red-image{
+    width: 10%;
+}
+
+.Fta-head h2{
+    font-family: InterBold;
+    color: #000;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.Servicess{
+    /* border: 2px solid  green; */
+    padding: 0px;
+}
+
+.Servicess p{
+    font-family: InterRegular;
+    line-height: 22px;
+    letter-spacing: 0.96px;
+    font-size: 13px;
+    color: #575252;
+    margin-top: 15px;
+    padding: 0px 20px;
+    text-align: left;
+}
+
+.Professional{
+    background-color: #3B3B3B;
+    padding: 20px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.prof{
+    width: 70%;
+}
+
+.Professional h3{
+    font-family: SourRegular;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 41px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #9D9D9D;
+    
+}
+
+.Professional p{
+    width: 100%;
+    color: #bbb8b8;
+    margin-top: 5px;
+    font-family: InterRegular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    
+}
+
+.btn-action{
+    background-color: #FA434A;
+    border: none;
+    padding: 15px 20px;
+    margin: 20px;
+    color: #fff;
+}
+
+.Choose{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 20px 20px 0px;
+    margin-top: 30px;
+}
+
+.smiling{
+    /* border: 2px solid green; */
+    width: 30%;
+}
+
+.Choose-container{
+    /* border: 2px solid red; */
+    width: 50%;
+    padding: 20px 40px 0px 60px;
+}
+
+/* .Choose-text{
+    border: 2px solid blue;
+} */
+
+.Choose-text h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    color: #413F3F;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.Choose-text p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+.Choose-Heading{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.Choose-head{
+    width: 80%;
+    /* border: 2px solid black; */
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.Choose-red{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.red2-image{
+    width: 10%;
+}
+
+.Choose-red h3{
+    font-family: InterBold;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #000000;
+}
+
+.Choose-head p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin: 10px 0px;
+}
+
+.Team{
+    width: 100%;
+    background-image: url(/src/components/Img/Business\ meeting\ room\ on\ high\ rise\ office\ building.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgba(254, 0, 0, 0.8);
+    padding: 30px 0px 40px;
+}
+
+.Team-text{
+    width: 100%;
+    padding: 20px 20px 20px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Team-text h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #fff;
+}
+.new-all{
+    width: 40%;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.new-all p{
+    margin: 10px 0px 0px 0px;
+    text-align: left;
+}
+
+.Team-text p{
+    width: 40%;
+    font-family: InterRegular;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    margin: 10px 0px;  
+    color: #fff;  
+}
+
+.Team-heading{
+    padding: 10px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+}
+
+.Team-head{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    margin: 10px 0px;
+}
+
+.Team-img{
+    width: 70%;
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    padding:30px 20px;
+}
+
+.handsome-image{
+    width: 90%;
+}
+
+.Meet{
+    margin-top: 10px;
+}
+
+.Meet p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: #fff;
+    margin: 10px 0px;
+}
+
+.Reach-container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 50px 0px;
+}
+
+.Reach{
+    padding: 10px 20px;
+    width: 25%;
+    /* border: 2px solid red; */
+}
+
+.Reach h3{
+    font-family: SourRegular;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #404040;
+    margin-bottom: 15px;
+}
+
+.Reach p{
+    font-family: InterRegular;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #000000;
+}
+
+.Selected-Head{
+    width: 30%;
+    margin: 0px 0px 0px;
+    /* border: 2px solid green; */
+    padding: 10px 20px;
+}
+
+.Selected{
+    padding: 0px 20px;
+    
+}
+
+.Selected p{
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;
+    border-bottom: 1px solid #575252;    
+}
+
+.Selected-input{
+    display: flex;
+    gap: 60px;
+    /* margin: 5px 0px ; */
+    padding:5px 20px ;
+    
+}
+
+.First{
+    width: 50%;
+    border: none;
+    border-bottom: 1px solid #575252;
+    padding: 8px 0px;
+    font-family: InterRegular;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+
+footer{
+    padding: 80px 30px 20px;
+    background-color: #1F1919;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 20px;
+}
+
+.Footer-about{
+    width: 30%;
+    /* border: 2px solid green; */
+}
+
+.Footer-about h3{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #fff;
+    
+}
+
+.vector31-image{
+    width: 80%;
+}
+
+.Footer-img p{
+    font-family: SourRegular;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #7D7A7A;
+}
+
+.Since{
+    margin: 40px 0px 30px;
+}
+
+.Since p{
+    font-family: InterRegular;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;
+}
+
+.read-image{
+    width: 10%;
+}
+
+.Services{
+    /* border:2px solid #FA434A; */
+    width: 20%;
+}
+
+.Services p{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.19em;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 0px;
+} 
+
+.Services-head{
+    display: flex;
+    align-items: center;
+    /* border: 2px solid blue; */
+    gap: 3px;
+    margin: 5px 0px;
+}
+
+
+.vector4-image{
+    width: 5%;
+    /* border: 2px solid red; */
+}
+
+.Services-head p{
+    /* border: 2px solid green; */
+    font-family: InterRegular;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    /* text-align: left; */
+    padding: 0px;
+    margin-top: 5px;
+    color: #575252;
+    margin-bottom: 0px;
+}
+
+.Recent{
+    width: 30%;
+    /* border: 2px solid red; */
+}
+
+.Recent h3{
+    font-family: InterRegular;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0.19em;
+    text-align: left;
+    color: #fff;
+    margin:0px 0px 30px;
+    padding: 0px;
+}
+
+.Recent-head{
+    /* border: 2px solid green; */
+    width: 100%;
+    padding: 0px 30px 10px 0px;
+    color: #fff;
+}
+
+.Recent-head p{
+    font-family: InterRegular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: #575252;    
+}
+
+.Read-more{
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 15px 0px;
+    padding: 0px 0px 0px 20px ;
+}
+
+.Read-more p{
+    font-family: InterRegular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-align: right;
+    
+}
+
+.read-image{
+    width: 5%;
+}
+
+
+}
